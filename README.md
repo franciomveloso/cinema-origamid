@@ -6,7 +6,7 @@ Projeto de site com navegação entre páginas, utilização de cores para difer
 
 
 
-![ ](/cinema-origamid/colagem.png)
+![ ](colagem.png)
 
 - [x] HTML
 - [x] CSS
