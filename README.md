@@ -6,7 +6,7 @@ Projeto de site com navegação entre páginas, utilização de cores para difer
 
 
 
-<img src="/home/casa/Documentos/origamid/cinema/colagem.png" alt=" " style="zoom:18%;" />
+![ ](/home/casa/Documentos/origamid/cinema/colagem.png)
 
 - [x] HTML
 - [x] CSS
